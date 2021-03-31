@@ -1,10 +1,6 @@
 
 # README
-
-# ������� ������� �� Ruby on Rails 
-
-## "hello, world!" 
-
-��� ������ ���������� ��� 
-[* Ruby on Rails Tutorial *] (https://www.railstutorial.org/) 
-[������ ������] (https://www.michaelhartl.com/). ������ ���!
+# Ruby on Rails Tutorial: "hello, world!"
+This is the first application
+[*Ruby on Rails Tutorial*] (http://www.railstutorial.org/)
+[Michael Hartl] (http://www.michaelhartl.com/).
